@@ -1,0 +1,129 @@
+COMMERCIAL SOURCE-VISIBLE LICENSE 1.0
+
+Copyright (c) 2026 Kyle Givler
+All rights reserved.
+
+1. PURPOSE
+
+The source code for this software ("Software") is publicly visible to provide
+transparency into its implementation, security practices, architecture, and
+code quality, and to allow evaluation of the Copyright Holder's work and of
+the Software as a potential commercial product or licensed solution.
+
+Publication of the source code is not an offer to release the Software as
+open-source software or free software.
+
+The Software remains proprietary commercial property of the Copyright Holder.
+
+2. LIMITED INSPECTION LICENSE
+
+Subject to this License, you are granted a limited, revocable, non-exclusive,
+non-transferable license to view and read the source code solely for inspection,
+review, education about the Software itself, security review, and evaluation of
+the Copyright Holder's work or the Software as a potential commercial product.
+
+This permission does not include permission to use the Software.
+
+3. PROHIBITED ACTIVITIES
+
+Unless you have a separate written license from the Copyright Holder, you may
+not, directly or indirectly:
+
+a. compile, build, run, execute, deploy, host, install, or operate the Software;
+
+b. modify, adapt, translate, patch, extend, refactor, or create derivative works
+   based upon the Software;
+
+c. incorporate any portion of the Software into another product, application,
+   library, service, or codebase;
+
+d. distribute, sublicense, publish, mirror, sell, rent, lease, transfer, or
+   otherwise make copies of the Software available to another person, except
+   to the extent a hosting platform's mandatory terms require limited technical
+   copying or repository-fork functionality merely to provide access to the
+   published repository;
+
+e. use the Software to provide a commercial or non-commercial service;
+
+f. use the Software internally within an organization or business;
+
+g. reproduce substantial portions of the Software except as technically
+   necessary to access and inspect the published source;
+
+h. remove, conceal, or alter copyright, ownership, attribution, or license
+   notices;
+
+i. represent the Software as your own work or imply endorsement, partnership,
+   or affiliation with the Copyright Holder.
+
+4. NO IMPLIED LICENSE
+
+Possession of, access to, or visibility of the source code does not grant any
+rights other than the limited inspection rights expressly stated above.
+
+All rights not expressly granted are reserved.
+
+5. COMMERCIAL LICENSING
+
+The Copyright Holder may offer separate commercial licenses granting rights to
+use, execute, modify, deploy, redistribute, sublicense, host, customize, or
+otherwise exploit the Software.
+
+Commercial offerings may also include custom development, integration,
+deployment, hosting, maintenance, support, or white-glove implementation.
+
+Such rights exist only when expressly granted in a separate written agreement.
+
+6. FUTURE VERSIONS AND LICENSE CHANGES
+
+The Copyright Holder may change, replace, withdraw, or otherwise alter the
+license terms offered for future versions, releases, branches, or distributions
+of the Software at any time and without prior notice.
+
+Any such change applies only to the version, release, branch, or distribution
+to which the changed license is attached or otherwise expressly made
+applicable.
+
+A later license change does not retroactively revoke or modify rights already
+granted for a copy of an earlier version that was lawfully received under the
+license applicable to that earlier version, except to the extent that earlier
+license itself expressly provides otherwise.
+
+The Copyright Holder may also offer the same or different versions of the
+Software under separate commercial or other license terms to different parties.
+
+7. THIRD-PARTY COMPONENTS
+
+Third-party software included with or referenced by this repository remains
+subject to its respective licenses.
+
+This License applies only to material for which the Copyright Holder owns the
+applicable rights.
+
+8. TERMINATION
+
+Any permission granted under this License terminates automatically upon breach.
+
+After termination, you must cease all activity authorized by this License and
+delete any copies that you are not otherwise legally entitled to retain.
+
+9. NO WARRANTY
+
+THE SOFTWARE AND SOURCE CODE ARE PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+EXEMPLARY DAMAGES ARISING FROM ACCESS TO OR RELIANCE UPON THE SOFTWARE OR
+SOURCE CODE.
+
+11. RESERVATION OF RIGHTS
+
+The Software is proprietary commercial property.
+
+Except for the limited inspection permission expressly granted by this License,
+no copyright, patent, trademark, trade-secret, commercial-use, distribution,
+modification, execution, deployment, hosting, or other rights are granted.
